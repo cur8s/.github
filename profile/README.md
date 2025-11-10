@@ -1,4 +1,4 @@
-# Cur8s - The art of doing Kubernetes well.
+# Cur8s - The art of doing Kubernetes well
 
 **Cur8s** is a curated, convention-driven Kubernetes platform. It distills the ecosystem to its essential, reliable parts — a composition of proven tools refined into a coherent, reproducible system.
 
